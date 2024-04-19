@@ -8,7 +8,6 @@ Committed computer science undergraduate, passionate about developing user-frien
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [sirlei.stem@gmail.com](mailto:sirlei.stem@gmail.com)
-* 🧠  I'm learning React
 
 ### Skills
 
